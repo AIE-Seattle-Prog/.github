@@ -3,12 +3,12 @@
 This repository serves as a hub for all noteworthy projects that are either
 actively maintained or otherwise noteworthy in some form.
 
-## Repositories
-- [sfw][sfw] - Simple wrapper for 2D graphics for educational purposes
-- [VideoPlayer][VideoPlayer] - A rehosted version of an RTMFP video player for classroom use 
+Students or faculty lacking access to any of these should request it from
+a member of the Seattle Campus in the Game Programming dept.
 
-[sfw]:https://github.com/AIE-Seattle-Prog/sfw
-[VideoPlayer]:https://aie-seattle-prog.github.io/VideoPlayer/
+## Projects
+- [raygame](https://github.com/AIE-Seattle-Prog/raygame)
+- [raygamecsharp](https://github.com/AIE-Seattle-Prog/raygamecsharp)
 
 ## License
 
