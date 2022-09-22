@@ -22,7 +22,7 @@ Additional resources for each subject can be found.
 Subject resources may vary year by year, so we've provided pre-filtered searches
 that you can use to browse and find resources for your class.
 
-- [Demos Repositories](https://github.com/search?q=topic%3Ademos+org%3AAIE-Seattle-Prog+fork%3Atrue)
+- [Demos Repositories](https://github.com/search?q=topic%3Ademos+org%3AAIE-Seattle-Prog+fork%3Atrue+archived%3Afalse&type=)
 
 ### Templates
 
@@ -38,7 +38,7 @@ project, like Raylib. To use one, click on the "Use template button" where the
 Instructors have additional access to repositories used to share content between
 academic years, such as reference implementations for various subjects.
 
-- [Reference Repositories](https://github.com/search?q=topic%3Areference+org%3AAIE-Seattle-Prog+fork%3Atrue) (for instructors)
+- [Reference Repositories](https://github.com/search?q=topic%3Areference+org%3AAIE-Seattle-Prog+fork%3Atrue+archived%3Afalse&type=) (for instructors)
 - [Boilerplate Template Repository](https://github.com/AIE-Seattle-Prog/aieBoilerplate)
 
 ## License
