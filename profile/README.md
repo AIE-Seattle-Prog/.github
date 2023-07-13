@@ -4,7 +4,7 @@ Welcome to AIE Seattle's GitHub profile!
 
 This organization contains resources for students and faculty alike such as:
 
-- Templates
+- Template Repositories
 - Subject Resources
 - Campus Projects
 - Archives of Old Student Projects
@@ -30,8 +30,8 @@ Template repositories can be used to start a new repository with a preconfigured
 project, like Raylib. To use one, click on the "Use template button" where the
 "Clone" button would ordinarily be.
 
-- [raygame](https://github.com/AIE-Seattle-Prog/raygame), a C++ project with Raylib
-- [raygamecsharp](https://github.com/AIE-Seattle-Prog/raygamecsharp), a C# project with Raylib
+- [raygame](https://github.com/AIE-Seattle-Prog/raygame), a VS C++ project with Raylib
+- [raygamecsharp](https://github.com/AIE-Seattle-Prog/raygamecsharp), a VS C# project with Raylib
 
 ## :apple: Instructor Resources
 
@@ -43,7 +43,7 @@ academic years, such as reference implementations for various subjects.
 
 ## License
 
-Copyright (c) 2017-2022 Academy of Interactive Entertainment
+Copyright (c) 2017-2023 Academy of Interactive Entertainment
 
 This repository is [licensed under the MIT License](/LICENSE.md).
 
